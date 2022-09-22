@@ -5,8 +5,11 @@
 
 | Article                       |   Link   | 
 | :---                          |  :----:   |
-| Positions In CSS              | [Click Here To Read](https://anupamkumarkrishnan.hashnode.dev/position-property-in-css) |
-| CSS Selectors                 |   [Click Here To Read](https://anupamkumarkrishnan.hashnode.dev/css-selector-all-you-need-to-know)   | 
-| Flexbox Basics                | [Click Here To Read](https://anupamkumarkrishnan.hashnode.dev/get-started-with-flexbox) |
-| Markdown Cheatsheet           | [Click Here To Read](https://anupamkumarkrishnan.hashnode.dev/markdown-cheatsheet) |
-| Git Chearsheet                | [Click Here To Read](https://anupamkumarkrishnan.hashnode.dev/git-cheatsheet) |
+| <b>_Positions In CSS_</b>              | <b>_[Click Here To Read](https://anupamkumarkrishnan.hashnode.dev/position-property-in-css)_</b> |
+| <b>_CSS Selectors_</b>                 |   <b>_[Click Here To Read](https://anupamkumarkrishnan.hashnode.dev/css-selector-all-you-need-to-know)_</b>   | 
+| <b>_Flexbox Basics_</b>                | <b>_[Click Here To Read](https://anupamkumarkrishnan.hashnode.dev/get-started-with-flexbox)_</b> |
+| <b>_Markdown Cheatsheet_</b>           | <b>_[Click Here To Read](https://anupamkumarkrishnan.hashnode.dev/markdown-cheatsheet)_</b> |
+| <b>_Git Chearsheet_</b>                | <b>_[Click Here To Read](https://anupamkumarkrishnan.hashnode.dev/git-cheatsheet)_</b> |
+| <b>_My HTML & CSS Journey_</b>         | <b>_[Click Here To Read](https://anupamkumarkrishnan.hashnode.dev/my-html-css-journey)_</b> |
+| <b>_Arrays in JavaScript_</b>          | <b>_[Click Here To Read](https://anupamkumarkrishnan.hashnode.dev/arrays-in-javascript-an-in-depth-guide)_</b> |
+| <b>_JavaScript Interview Preparation Cheat Sheet_</b> | <b>_[Click Here To Read](https://anupamkumarkrishnan.hashnode.dev/javascript-interview-preparation-cheat-sheet)_</b> |
