@@ -1,7 +1,5 @@
 # _Hashnode Articles_  ✒️
 
-![J7uY6EVhp](https://user-images.githubusercontent.com/91872149/185778933-3980acd0-456c-4c2d-b843-cc6b49f3105f.png)
-
 
 | _Articles_                       |   _Link🔗_   | 
 | :---                          |  :----:   |
