@@ -23,3 +23,5 @@
 - _**JavaScript Object and it’s method**_
 - _**JavaScript Functions**_
 - _**Flow of code execution in JavaScript**_
+- _**Tailwind CSS with Project**_
+- _**React JS Intro with project**_
